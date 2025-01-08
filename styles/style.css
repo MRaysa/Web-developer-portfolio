@@ -112,6 +112,7 @@ nav li a{
 }
 
 .banner-profile-pic{
+    margin-top: 70px;
     height: auto;
     width:500px;
     object-fit: cover;
