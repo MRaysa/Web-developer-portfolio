@@ -109,8 +109,10 @@ nav li a{
 }
 
 .banner-profile-pic{
-    
+    height: auto;
     width:500px;
+    object-fit: cover;
+    display: block;
 }
 
 /* Main styles */
