@@ -9,7 +9,7 @@ Welcome to my **Web Developer Portfolio** repository! This project is a personal
 ![Website Preview]([./path-to-your-screenshot.png](https://www.figma.com/design/YimUj2MjMokiNSRnMd4sQx/developer-porttfolio?node-id=22-299&p=f&t=GPS6hFXGsSiu5QlQ-0))
 
 You can view the live project here:  
-[**Web Developer Portfolio**]([https://mraysa.github.io/Web-developer-portfolio/](https://mraysa.github.io/Web-developer-portfolio/))
+[**Web Developer Portfolio**](https://mraysa.github.io/Web-developer-portfolio/)
 
 ---
 
